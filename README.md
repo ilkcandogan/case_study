@@ -52,7 +52,7 @@ python src/task2/evulate.py
 
 Model eğitimi için kullanılan GPU ve sürücü bilgileri
 
-| Özellik          | Değer                  |
+|           |                   |
 |-----------------|-----------------------|
 | GPU              | NVIDIA RTX A5000      |
 | Driver Version   | 550.90.07             |
